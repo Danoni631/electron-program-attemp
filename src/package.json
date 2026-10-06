@@ -1,0 +1,16 @@
+{
+  "name": "accessible-bee-concentrate-vnw8h",
+  "productName": "accessible-bee-concentrate-vnw8h",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Danoni631",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "41.1.1"
+  }
+}
